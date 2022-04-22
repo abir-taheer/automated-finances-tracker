@@ -13,7 +13,7 @@
     "prettier": "npx prettier --write ."
   },
   "dependencies": {
-    "@faker-js/faker": "^6.1.2",
+    "@faker-js/faker": "^6.2.0",
     "apollo-server-express": "^3.6.7",
     "body-parser": "latest",
     "cookie-parser": "^1.4.6",
