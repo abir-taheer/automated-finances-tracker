@@ -25,7 +25,7 @@
     "morgan": "^1.10.0",
     "rimraf": "^3.0.2",
     "sequelize": "^6.21.3",
-    "ts-node": "^10.8.2",
+    "ts-node": "^10.9.1",
     "umzug": "^3.1.1"
   },
   "devDependencies": {
